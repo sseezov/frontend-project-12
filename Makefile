@@ -1,5 +1,6 @@
 build:
-	cd frontend && npm run build
+	rm -rf frontend/dist
+	npm run build
 
 dev:
 	cd frontend && npm run dev

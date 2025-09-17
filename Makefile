@@ -1,5 +1,5 @@
 build:
-	npm run build
+	npm i
 
 dev:
 	cd frontend && npm run dev
